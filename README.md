@@ -1,4 +1,4 @@
-# RustChain YouTube Shorts Kit: The 2011 PC That Out-Earns Modern Silicon
+# RustChain YouTube Shorts Kit: Vintage Silicon vs Modern Server
 
 This repository contains a publication-ready **Type C Shorts / Clip Kit (≤60s)** produced for the **RustChain Distribution Bounty Round ([Issue #16601](https://github.com/Scottcjn/rustchain-bounties/issues/16601))**.
 
@@ -6,9 +6,9 @@ This repository contains a publication-ready **Type C Shorts / Clip Kit (≤60s)
 
 ## Package Contents
 - [`script.md`](./script.md): 55-second vertical script with exact timestamp cues, voiceover lines, and on-screen text directions.
-- [`storyboard.md`](./storyboard.md): Visual and technical capture directions for vertical 9:16 layout.
+- [`storyboard.md`](./storyboard.md): Visual and technical capture directions for vertical 9:16 layout with real captured hardware fingerprint outputs.
 - [`metadata.md`](./metadata.md): Primary title, 2 alternate titles, SEO description, hashtags, and social links.
-- [`SOURCES.md`](./SOURCES.md): Verifiable citations and mathematical formulas referencing `Scottcjn/Rustchain`.
+- [`SOURCES.md`](./SOURCES.md): Verifiable citations with line numbers referencing `Scottcjn/Rustchain` (`rip_200_round_robin_1cpu1vote.py` and `miners/linux/fingerprint_checks.py`).
 
 ---
 
