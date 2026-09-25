@@ -6,50 +6,49 @@
 ---
 
 ### [00:00 - 00:06] The Hook
-*(Visual: Fast split screen. Left side: Glowing liquid-cooled $10,000 Threadripper PC. Right side: Dusty 2011 beige Dell OptiPlex with an Intel Core i5 Sandy Bridge.)*
+*(Visual: Fast split screen. Top: $10,000 modern multi-core server rig. Bottom: 2003 PowerPC Mac G4 next to a 2011 beige Dell OptiPlex Sandy Bridge.)*
 
 **Voiceover:**  
-"What if I told you this 15-year-old Dell PC makes MORE crypto than a $10,000 64-core Threadripper rig?"
+"What if I told you a 20-year-old PowerPC Mac and a 2011 Sandy Bridge PC out-earn a $10,000 server on this blockchain?"
 
-*(On-screen text pop: "15-YEAR-OLD DELL > $10K THREADRIPPER?!")*
+*(On-screen text pop: "VINTAGE SILICON > $10K SERVER?!")*
 
 ---
 
 ### [00:06 - 00:18] The Proof-of-Work Problem
-*(Visual: B-roll animation of soaring electricity bills and massive crypto mining server farms guzzling megawatts.)*
+*(Visual: B-roll animation of mega mining farms guzzling megawatts, ASIC e-waste piled up in landfills.)*
 
 **Voiceover:**  
-"In Bitcoin and classic Proof-of-Work, mining is an arms race of raw wattage and capital. Giant server farms win, and everyday hardware ends up in a landfill."
+"In classic Bitcoin mining, it’s an arms race of raw wattage and endless money. Giant server farms win, and perfectly good computers end up in landfills."
 
-*(On-screen text: "Traditional Mining = Energy Waste")*
+*(On-screen text: "Traditional Mining = Megawatts & E-Waste")*
 
 ---
 
-### [00:18 - 00:32] The Proof-of-Antiquity Solution
-*(Visual: Terminal running `rustchain-miner`. Terminal outputs: `CPU: Intel Core i5-2400 (2011) | Antiquity Bonus: 2.708x | Difficulty Target: EXPANDED`)*
+### [00:18 - 00:32] The Consensus: 1 CPU = 1 Vote
+*(Visual: Code snippet of node/rip_200_round_robin_1cpu1vote.py highlighting ANTIQUITY_MULTIPLIERS table.)*
 
 **Voiceover:**  
-"Enter **RustChain** and its consensus mechanism: **Proof-of-Antiquity**!  
-Instead of rewarding brute-force hashing, RustChain scales the puzzle difficulty based on hardware age."
+"Enter **RustChain**! Instead of burning electricity on brute-force hash races, RustChain runs on **1 CPU = 1 Vote** round-robin consensus with antiquity multipliers!"
 
-*(On-screen text: "Proof-of-Antiquity: Older Hardware = Higher Multiplier")*
+*(On-screen text: "RustChain: 1 CPU = 1 Vote | Real Hardware Weights")*
 
 ---
 
-### [00:32 - 00:46] The Math: Antiquity Scaling
-*(Visual: Clean animated formula graphic showing $T_{\text{target}} \times \alpha(\text{age})$. A Sandy Bridge bar fills up to 2.7x while the Threadripper bar is clamped with a multi-core penalty.)*
+### [00:32 - 00:46] The Code: Real Hardware Multipliers
+*(Visual: Animated comparison bar chart using exact repository numbers. PowerPC G4 at 2.5x, Sandy Bridge at 1.1x, Modern Intel/AMD at 0.8x. Terminal showing real fingerprint_checks.py passing all 6 tests.)*
 
 **Voiceover:**  
-"A 2011 Sandy Bridge chip receives an automatic **2.7x antiquity bonus**, while 64-core monster rigs are penalized to protect decentralization!"
+"According to the code, a vintage PowerPC G4 gets a massive **2.5x multiplier**, a 2011 Sandy Bridge gets **1.1x**, while modern rigs are throttled to **0.8x**! And six physical silicon jitter checks stop anyone from faking it in virtual machines!"
 
-*(On-screen text: "Core i5-2400: +270% Bonus | 64-Core Farm: Capped")*
+*(On-screen text: "PowerPC G4: 2.5x | Sandy Bridge: 1.1x | Modern x86: 0.8x")*
 
 ---
 
 ### [00:46 - 00:55] Call to Action
-*(Visual: RustChain GitHub repo and node dashboard showing green blocks being confirmed by vintage laptops and desktops.)*
+*(Visual: Browser showing github.com/Scottcjn/Rustchain with green blocks confirming on vintage laptops.)*
 
 **Voiceover:**  
-"Don’t throw away your old family PC. Turn it into a decentralized node on RustChain! Check the open-source repo at `github.com/Scottcjn/Rustchain`!"
+"Don’t throw away your old computers. Put them to work on RustChain! Check out the open-source repo at `github.com/Scottcjn/Rustchain`!"
 
 *(On-screen graphic: "RustChain: Resurrecting Old Silicon | github.com/Scottcjn/Rustchain")*
